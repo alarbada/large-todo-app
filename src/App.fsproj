@@ -1,0 +1,119 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="index.html" />
+    <Compile Include="Extensions.fs" />
+    <Compile Include="Components.fs" />
+    <Compile Include="Main.fs" />
+    <Compile Include="test1.fs" />
+    <Compile Include="test2.fs" />
+    <Compile Include="test3.fs" />
+    <Compile Include="test4.fs" />
+    <Compile Include="test5.fs" />
+    <Compile Include="test6.fs" />
+    <Compile Include="test7.fs" />
+    <Compile Include="test8.fs" />
+    <Compile Include="test9.fs" />
+    <Compile Include="test10.fs" />
+    <Compile Include="test11.fs" />
+    <Compile Include="test12.fs" />
+    <Compile Include="test13.fs" />
+    <Compile Include="test14.fs" />
+    <Compile Include="test15.fs" />
+    <Compile Include="test16.fs" />
+    <Compile Include="test17.fs" />
+    <Compile Include="test18.fs" />
+    <Compile Include="test19.fs" />
+    <Compile Include="test20.fs" />
+    <Compile Include="test21.fs" />
+    <Compile Include="test22.fs" />
+    <Compile Include="test23.fs" />
+    <Compile Include="test24.fs" />
+    <Compile Include="test25.fs" />
+    <Compile Include="test26.fs" />
+    <Compile Include="test27.fs" />
+    <Compile Include="test28.fs" />
+    <Compile Include="test29.fs" />
+    <Compile Include="test30.fs" />
+    <Compile Include="test31.fs" />
+    <Compile Include="test32.fs" />
+    <Compile Include="test33.fs" />
+    <Compile Include="test34.fs" />
+    <Compile Include="test35.fs" />
+    <Compile Include="test36.fs" />
+    <Compile Include="test37.fs" />
+    <Compile Include="test38.fs" />
+    <Compile Include="test39.fs" />
+    <Compile Include="test40.fs" />
+    <Compile Include="test41.fs" />
+    <Compile Include="test42.fs" />
+    <Compile Include="test43.fs" />
+    <Compile Include="test44.fs" />
+    <Compile Include="test45.fs" />
+    <Compile Include="test46.fs" />
+    <Compile Include="test47.fs" />
+    <Compile Include="test48.fs" />
+    <Compile Include="test49.fs" />
+    <Compile Include="test50.fs" />
+    <Compile Include="test51.fs" />
+    <Compile Include="test52.fs" />
+    <Compile Include="test53.fs" />
+    <Compile Include="test54.fs" />
+    <Compile Include="test55.fs" />
+    <Compile Include="test56.fs" />
+    <Compile Include="test57.fs" />
+    <Compile Include="test58.fs" />
+    <Compile Include="test59.fs" />
+    <Compile Include="test60.fs" />
+    <Compile Include="test61.fs" />
+    <Compile Include="test62.fs" />
+    <Compile Include="test63.fs" />
+    <Compile Include="test64.fs" />
+    <Compile Include="test65.fs" />
+    <Compile Include="test66.fs" />
+    <Compile Include="test67.fs" />
+    <Compile Include="test68.fs" />
+    <Compile Include="test69.fs" />
+    <Compile Include="test70.fs" />
+    <Compile Include="test71.fs" />
+    <Compile Include="test72.fs" />
+    <Compile Include="test73.fs" />
+    <Compile Include="test74.fs" />
+    <Compile Include="test75.fs" />
+    <Compile Include="test76.fs" />
+    <Compile Include="test77.fs" />
+    <Compile Include="test78.fs" />
+    <Compile Include="test79.fs" />
+    <Compile Include="test80.fs" />
+    <Compile Include="test81.fs" />
+    <Compile Include="test82.fs" />
+    <Compile Include="test83.fs" />
+    <Compile Include="test84.fs" />
+    <Compile Include="test85.fs" />
+    <Compile Include="test86.fs" />
+    <Compile Include="test87.fs" />
+    <Compile Include="new.fs" />
+    <Compile Include="test88.fs" />
+    <Compile Include="test89.fs" />
+    <Compile Include="test90.fs" />
+    <Compile Include="test91.fs" />
+    <Compile Include="test92.fs" />
+    <Compile Include="test93.fs" />
+    <Compile Include="test94.fs" />
+    <Compile Include="test95.fs" />
+    <Compile Include="test96.fs" />
+    <Compile Include="test97.fs" />
+    <Compile Include="test98.fs" />
+    <Compile Include="test99.fs" />
+    <Compile Include="test100.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Fable.Promise" Version="2.2.2" />
+    <PackageReference Include="Feliz" Version="1.51.0" />
+    <PackageReference Include="Feliz.Router" Version="3.8.0" />
+    <PackageReference Include="Fable.DateFunctions" Version="3.7.0" />
+    <PackageReference Include="Zanaptak.TypedCssClasses" Version="1.0.0" />
+  </ItemGroup>
+</Project>
